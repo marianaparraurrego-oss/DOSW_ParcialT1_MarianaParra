@@ -2,3 +2,7 @@
 ANDREA MARIANA PARRA URREGO
 GRUPO 1
 ![img.png](img.png)
+
+### Primer punto (Enunciado 2)
+
+![img_1.png](Diagrama de contexto.png)
