@@ -40,3 +40,6 @@ se maneja una jerarquia, muy similar a un diagrama de arbol
 
   * Interfaz responsive
   * La aplicacion web use los colores Verde y Blanco
+
+### Cuarto punto (diagrama casos de uso)
+![img_2.png](img_2.png)
