@@ -43,3 +43,15 @@ se maneja una jerarquia, muy similar a un diagrama de arbol
 
 ### Cuarto punto (diagrama casos de uso)
 ![img_2.png](img_2.png)
+
+### Quinto punto 
+1. Epica: Calcular dinamicamente el promedio
+   2. Se calculara dinamicamente el promedio para que cada vez que se registre una nota automaticamente se actualice 
+   el promedio
+2. HU: Calcular el promedio
+   3. Como administrador quiero calcular dinamicamente el promedio para hacer mas eficiente el proceso
+3. Subtask:
+   4. Promedio por estudiante
+   5. Promedio por modulo
+   6. Promedio por General
+   7. Promedio por grupo
