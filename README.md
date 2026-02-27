@@ -5,4 +5,4 @@ GRUPO 1
 
 ### Primer punto (Enunciado 2)
 
-![img_1.png](Diagrama de contexto.png)
+![img_1.png](img_1.png)
