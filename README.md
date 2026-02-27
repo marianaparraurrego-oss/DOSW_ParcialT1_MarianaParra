@@ -23,4 +23,20 @@ Nombre del Patrón: composite
 b. Tipo de patrón (creacional, estructural o de comportamiento): estructural
 
 c. Justificación de la decisión
+
 se maneja una jerarquia, muy similar a un diagrama de arbol
+
+
+### Tercer punto (requerimientos)
+* Funcionales
+
+    * Registar la estructura academica
+
+    * Calcular dinamicamente el promedio
+
+    * El sistema debe permitir agregar subgrupos y nuevas categorias
+
+* No funcionales
+
+  * Interfaz responsive
+  * La aplicacion web use los colores Verde y Blanco
